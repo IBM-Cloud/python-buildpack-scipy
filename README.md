@@ -1,4 +1,4 @@
-Python buildpack: Numpy, and Scipy (Python 2.7 only)
+Buildpack: Numpy, and Scipy (Python 2.7 only)
 ====================================================
 
 This is a custom for Python apps that use NumPy and/or SciPy, powered by [pip](http://www.pip-installer.org/).
